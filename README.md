@@ -75,4 +75,5 @@ This code is built on [Restormer]([https://github.com/swz30/Restormer](https://g
 
 # Citation
 [1] Zhou S, Zhou C, Lyu Y, et al. PIDSR: Complementary Polarized Image Demosaicing and Super-Resolution[C]//Proceedings of the Computer Vision and Pattern Recognition Conference. 2025: 16081-16090.
+
 [2] Yu D, Li Q, Zhang Z, et al. Color polarization image super-resolution reconstruction via a cross-branch supervised learning strategy[J]. Optics and Lasers in Engineering, 2023, 165: 107469.
