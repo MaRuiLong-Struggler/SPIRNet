@@ -66,10 +66,9 @@ data/
     └── .../
     
 
-# Train  
-```bash
-python train.py
-```
+
+train.py is coming soon
+
 # Acknowledgements
 This code is built on [Restormer]([https://github.com/swz30/Restormer](https://github.com/PRIS-CV/PIDSR). We thank the authors for sharing their codes.
 
